@@ -111,10 +111,10 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 ---
 
-- [ ]  [Vulnversity](https://tryhackme.com/jr/vulnversity)
-- [ ]  [Basic Pentesting](https://tryhackme.com/jr/basicpentestingjt)
-- [ ]  [Kenobi](https://tryhackme.com/jr/kenobi)
-- [ ]  [Steel Mountain](https://tryhackme.com/jr/steelmountain)
+- [ ]  [EASY BOX][Vulnversity](https://tryhackme.com/jr/vulnversity)
+- [ ]  [EASY BOX][Basic Pentesting](https://tryhackme.com/jr/basicpentestingjt)
+- [ ]  [EASY BOX][Kenobi](https://tryhackme.com/jr/kenobi)
+- [ ]  [PAID][Steel Mountain](https://tryhackme.com/jr/steelmountain)
 
 ## Basics Rooms
 
