@@ -1,6 +1,8 @@
 # TryHackMe-Learning-Path-From-Beginner-to-Expert-
 A comprehensive TryHackMe learning path with organized sections on Introductory Rooms, Linux Fundamentals, Networking, Forensics, CTF challenges, Scripting, and more. This repo provides a structured approach to mastering cybersecurity skills through TryHackMe.
 
+Forked van bestaande repo, challenges gelabeld op moeilijkheid, dode links verwijderd (08-2024)
+
 - CTF = Capture The Flag
 - GRC = Governance, Regulatory, and Compliance
 - BOX = Challenge waarbij een VM ('box') gehackt moet worden
