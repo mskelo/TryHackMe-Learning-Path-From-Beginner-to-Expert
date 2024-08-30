@@ -194,20 +194,18 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 - [ ]  [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 - [ ]  [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
-- [ ]  [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
-- [ ]  [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
-- [ ]  [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+- [ ]  [MEDIUM BOX][TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+- [ ]  [CTF][TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [ ]  [EASY BOX][TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
 ## Steganography
 
 ---
 
-- [ ]  [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-- [ ]  [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-- [ ]  [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
-- [ ]  [TryHackMe | Madness](https://tryhackme.com/room/madness)
-- [ ]  [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-- [ ]  [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
+- [ ]  [MEDIUM][TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
+- [ ]  [EASY BOX][TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [ ]  [EASY BOX][TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [ ]  [MEDIUM BOX][TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
 
