@@ -68,6 +68,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 ## Windows Exploitation Basics
 
 ---
+NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meeste mensen kunnen dat skippen.
 
 - [ ]  [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 - [ ]  [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
