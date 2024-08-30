@@ -70,9 +70,10 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 ---
 NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meeste mensen kunnen dat skippen.
 
-- [ ]  [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ]  [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ]  [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [ ]  [INTRO][TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [ ]  [INTRO][TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [ ]  [INTRO][TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+
 - [ ]  [Active Directory Basics](https://tryhackme.com/jr/winadbasics)
 - [ ]  [Metasploit : Intro](https://tryhackme.com/jr/metasploitintro)
 - [ ]  [Metasploit : Exploitation](https://tryhackme.com/jr/metasploitexploitation)
