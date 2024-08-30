@@ -78,7 +78,7 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 - [ ]  [Metasploit : Intro](https://tryhackme.com/jr/metasploitintro)
 - [ ]  [PAID][Metasploit : Exploitation](https://tryhackme.com/jr/metasploitexploitation)
 - [ ]  [PAID][Metasploit : Meterpreter](https://tryhackme.com/jr/meterpreter)
-- [ ]  [Blue](https://tryhackme.com/jr/blue)
+- [ ]  [BOX][Blue](https://tryhackme.com/jr/blue)
 
 ## Web Hacking Fundamentals
 
