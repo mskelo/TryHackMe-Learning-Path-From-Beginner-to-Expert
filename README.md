@@ -86,11 +86,10 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 - [ ]  [How Website Works](https://tryhackme.com/jr/howwebsiteswork)
 - [ ]  [HTTP in detail](https://tryhackme.com/jr/httpindetail)
-- [ ]  [Burp Suite : The Basics](https://tryhackme.com/jr/burpsuitebasics)
+- [ ]  [PAID][Burp Suite : The Basics](https://tryhackme.com/jr/burpsuitebasics)
 - [ ]  [OWASP Top 10 : 2021](https://tryhackme.com/jr/owasptop102021)
 - [ ]  [OWASP Juice Shop](https://tryhackme.com/jr/owaspjuiceshop)
-- [ ]  [Upload Vulenerabilities](https://tryhackme.com/jr/uploadvulns)
-- [ ]  [Pickle Pick](https://tryhackme.com/jr/picklerick)
+- [ ]  [CTF][Pickle Rick](https://tryhackme.com/jr/picklerick)
 
 ## Cryptography
 
