@@ -103,8 +103,8 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 ---
 
-- [ ]  [What is the Shell?](https://tryhackme.com/jr/introtoshells)
-- [ ]  [Common Linux Privesc](https://tryhackme.com/jr/commonlinuxprivesc)
+- [ ]  [PAID][What is the Shell?](https://tryhackme.com/jr/introtoshells)
+- [ ]  [PAID][Common Linux Privesc](https://tryhackme.com/jr/commonlinuxprivesc)
 - [ ]  [Linux PrivEsc](https://tryhackme.com/jr/linuxprivesc)
 
 ## Basic Computer Exploitations
