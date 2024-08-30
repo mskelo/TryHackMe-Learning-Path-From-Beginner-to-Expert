@@ -5,6 +5,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - GRC = Governance, Regulatory, and Compliance
 - BOX = Challenge waarbij een VM ('box') gehackt moet worden
 - DEF = Defensieve ('Blueteam') room
+- EASY/MEDIUM/HARD/INSANE = Moeilijkheidsgraad
 
 | Name of Topic             | Number of Rooms |
 |---------------------------|-----------------|
@@ -309,41 +310,40 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 ---
 
-- [ ]  [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
-- [ ]  [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
-- [ ]  [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
-- [ ]  [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
-- [ ]  [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
-- [ ]  [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
-- [ ]  [TryHackMe | Blue](https://tryhackme.com/room/blue)
+- [ ]  [EASY BOX][TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
+- [ ]  [MEDIUM BOX][TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
+- [ ]  [MEDIUM BOX][TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
+- [ ]  [EASY BOX][TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
+- [ ]  [MEDIUM BOX][TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
+- [ ]  [EASY BOX][TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+- [ ]  [EASY BOX][TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
 
 ---
 
-- [ ]  [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
-- [ ]  [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
-- [ ]  [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
-- [ ]  [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
-- [ ]  [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
+- [ ]  [MEDIUM BOX][TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+- [ ]  [EASY BOX][TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+- [ ]  [HARD BOX][TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
+- [ ]  [MEDIUM BOX][TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
-## PCAP Analysis
+## PCAP Analysis (WIRESHARK STERK AANGERADEN)
 
 ---
 
-- [ ]  [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
-- [ ]  [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-- [ ]  [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-- [ ]  [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+- [ ]  [EASY BOX][TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
+- [ ]  [MEDIUM BOX][TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [ ]  [INSANE BOX][TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
+- [ ]  [EASY BOX][TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## BufferOverflow
 
 ---
 
-- [ ]  [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
-- [ ]  [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
-- [ ]  [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
-- [ ]  [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+- [ ]  [EASY BOX][TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+- [ ]  [MEDIUM BOX][TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
+- [ ]  [MEDIUM BOX][TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
+- [ ]  [EASY BOX][TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
 
