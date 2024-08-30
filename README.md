@@ -156,7 +156,6 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 - [ ]  [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 - [ ]  [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 - [ ]  [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-- [ ]  [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
@@ -164,8 +163,7 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 - [ ]  [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ]  [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-- [ ]  [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-- [ ]  [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [ ]  [PAID][TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 - [ ]  [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [ ]  [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ]  [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
@@ -175,11 +173,9 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 ---
 
 - [ ]  [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-- [ ]  [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
 - [ ]  [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 - [ ]  [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 - [ ]  [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-- [ ]  [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 - [ ]  [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 - [ ]  [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 - [ ]  [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
@@ -189,7 +185,7 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 - [ ]  [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 - [ ]  [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 - [ ]  [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
-- [ ]  [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- [ ]  [PAID][TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 - [ ]  [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Crypto & Hashes
