@@ -4,6 +4,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 - CTF = Capture The Flag
 - GRC = Governance, Regulatory, and Compliance
 - BOX = Challenge waarbij een VM ('box') gehackt moet worden
+- DEF = Defensieve ('Blueteam') room
 
 | Name of Topic             | Number of Rooms |
 |---------------------------|-----------------|
