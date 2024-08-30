@@ -95,8 +95,8 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 ---
 
-- [ ]  [Hashing - Crypto 101](https://tryhackme.com/jr/hashingcrypto101)
-- [ ]  [John The Ripper](https://tryhackme.com/jr/johntheripper0)
+- [ ]  [PAID][Hashing - Crypto 101](https://tryhackme.com/jr/hashingcrypto101)
+- [ ]  [PAID][John The Ripper](https://tryhackme.com/jr/johntheripper0)
 - [ ]  [Encryption - Crypto 101](https://tryhackme.com/jr/encryptioncrypto101)
 
 ## Shells and Privilege Escalation
