@@ -9,36 +9,6 @@ Forked van bestaande repo, challenges gelabeld op moeilijkheid, dode links verwi
 - DEF = Defensieve ('Blueteam') room
 - EASY/MEDIUM/HARD/INSANE = Moeilijkheidsgraad
 
-| Name of Topic             | Number of Rooms |
-|---------------------------|-----------------|
-| Introductory Rooms        | 10              |
-| Network Basics            | 4               |
-| Forensics                 | 5               |
-| Networking                | 7               |
-| Linux Fundamentals        | 5               |
-| Special Events            | 9               |
-| Easy CTF                  | 58              |
-| Privilege Escalation      | 13              |
-| Hard CTF                  | 38              |
-| Scripting                 | 8               |
-| Active Directory          | 5               |
-| Basic Rooms               | 9               |
-| Misc                      | 35              |
-| Steganography             | 6               |
-| Reverse Engineering       | 11              |
-| Web                       | 27              |
-| Crypto & Hashes           | 5               |
-| Medium CTF                | 73              |
-| Reconnaissance            | 10              |
-| Tooling                   | 17              |
-| Malware Analysis          | 7               |
-| Wifi Hacking              | 1               |
-| PCAP Analysis             | 4               |
-| Android                   | 1               |
-| Buffer Overflow           | 4               |
-| Windows                   | 7               |
-| Windows Fundamentals      | 3               |
-| **Total Rooms**           | **389**         |
 
 ## Intro Rooms
 
