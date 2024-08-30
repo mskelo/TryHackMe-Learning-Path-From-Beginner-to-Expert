@@ -136,13 +136,13 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 - [ ]  [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 - [ ]  [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-- [ ]  [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [ ]  [PAID][TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 - [ ]  [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 - [ ]  [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 - [ ]  [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 - [ ]  [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 - [ ]  [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-- [ ]  [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
+- [ ]  [PAID][TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 - [ ]  [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
