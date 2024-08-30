@@ -1,6 +1,10 @@
 # TryHackMe-Learning-Path-From-Beginner-to-Expert-
 A comprehensive TryHackMe learning path with organized sections on Introductory Rooms, Linux Fundamentals, Networking, Forensics, CTF challenges, Scripting, and more. This repo provides a structured approach to mastering cybersecurity skills through TryHackMe.
 
+CTF = Capture The Flag
+GRC = Governance, Regulatory, and Compliance
+BOX = Challenge waarbij een VM ('box') gehackt moet worden
+
 | Name of Topic             | Number of Rooms |
 |---------------------------|-----------------|
 | Introductory Rooms        | 10              |
@@ -232,13 +236,13 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 - [ ]  [EASY BOX][TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 - [ ]  [EASY BOX][TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-## Android
+## Android (OPTIONEEL)
 
 ---
 
-- [ ]  [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+- [ ]  [MEDIUM][TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
-## Forensics
+## Forensics (OPTIONEEL)
 
 ---
 
@@ -254,7 +258,7 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 
 - [ ]  [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
-## Reverse Engineering
+## Reverse Engineering (OPTIONEEL)
 
 ---
 
@@ -270,7 +274,7 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 - [ ]  [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 - [ ]  [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
 
-## Malware Analysis
+## Malware Analysis (OPTIONEEL)
 
 ---
 
@@ -287,18 +291,18 @@ NB: Windows Fundamentals is voor als je nog nooit Windows hebt aangeraakt; meest
 ---
 
 - [ ]  [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
-- [ ]  [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
-- [ ]  [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
-- [ ]  [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
-- [ ]  [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
-- [ ]  [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
-- [ ]  [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-- [ ]  [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-- [ ]  [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-- [ ]  [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-- [ ]  [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
-- [ ]  [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [ ]  [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [ ]  [MEDIUM BOX][TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [ ]  [MEDIUM BOX][TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [ ]  [MEDIUM BOX][TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+- [ ]  [MEDIUM BOX][TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+- [ ]  [MEDIUM BOX][TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
+- [ ]  [INFO][TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [ ]  [MEDIUM BOX][TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [ ]  [EASY BOX][TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+- [ ]  [EASY BOX][TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [ ]  [EASY BOX][TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [ ]  [EASY CTF][TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [ ]  [EASY BOX][TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 
